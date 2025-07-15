@@ -1,9 +1,8 @@
-# TaskFlow
-🚀 Task Flow
-📌 Overview
-Task Flow is a full-stack task management application built with the MERN stack, designed to help users efficiently manage and track their tasks. With real-time dashboards, JWT-based authentication, and intuitive UI features, the platform ensures productivity through streamlined task organization.
+# TaskFlow 🚀
+## Overview 📌
+**Task Flow** is a full-stack task management application built with the **MERN stack**, designed to help users efficiently manage and track their tasks. With real-time dashboards, JWT-based authentication, and intuitive UI features, the platform ensures productivity through streamlined task organization.
 
-Key features of Task Flow include:
+### Key features of Task Flow include:
 
 🔒 JWT Authentication for secure user login and access control.
 
@@ -13,13 +12,13 @@ Key features of Task Flow include:
 
 ✅ Task Status Management for easy updates and completion tracking.
 
-📈 Statistics Panel to monitor progress and boost planning efficiency by up to 40%.
+📈 Statistics Panel to monitor progress and boost planning efficiency.
 
-🛠️ Tech Stack
-MongoDB – NoSQL database for storing task data.
+## Tech Stack 🛠️
+• MongoDB – NoSQL database for storing task data.
 
-Express.js – Backend framework for handling routes and APIs.
+• Express.js – Backend framework for handling routes and APIs.
 
-React.js – Frontend library for building dynamic user interfaces.
+• React.js – Frontend library for building dynamic user interfaces.
 
-Node.js – Backend runtime environment.
+• Node.js – Backend runtime environment.
