@@ -4,21 +4,21 @@
 
 ### Key features of Task Flow include:
 
-🔒 JWT Authentication for secure user login and access control.
+🔒 **JWT Authentication** for secure user login and access control.
 
-📊 Real-Time Dashboards showing total, completed, and pending tasks with progress visualization.
+📊 **Real-Time Dashboards** showing total, completed, and pending tasks with progress visualization.
 
-🎯 Priority-Based Filters to help users focus on what matters most.
+🎯 **Priority-Based Filters** to help users focus on what matters most.
 
-✅ Task Status Management for easy updates and completion tracking.
+✅ **Task Status Management** for easy updates and completion tracking.
 
-📈 Statistics Panel to monitor progress and boost planning efficiency.
+📈 **Statistics Panel** to monitor progress and boost planning efficiency.
 
 ## Tech Stack 🛠️
-• MongoDB – NoSQL database for storing task data.
+• **MongoDB**: NoSQL database for storing task data.
 
-• Express.js – Backend framework for handling routes and APIs.
+• **Express.js**: Backend framework for handling routes and APIs.
 
-• React.js – Frontend library for building dynamic user interfaces.
+• **React.js**: Frontend library for building dynamic user interfaces.
 
-• Node.js – Backend runtime environment.
+• **Node.js**: B:kend runtime environment:
